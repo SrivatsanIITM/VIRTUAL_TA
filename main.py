@@ -27,7 +27,7 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 from typing import List, Dict
 
-T_COOKIE = "your_discourse_cookie_here"
+T_COOKIE = "PFJK13O%2FmR6aPveV07%2BiQaNC5tAEcA%2BnXu967VWQ6lAWMy%2FJyKD21oxvXjBW6NqCe4qKbtDgaASytchPBRbnbDYmqDjSW0B767D6sihoQT3dwD0jz46kVvMBlE30N%2BFHGszr5CQ3zX2Kar5Wc2rGlTGcIwhEoZSOAtYhnqh7TPKXZQPVJaV0XRMMJ9KeGorZsPJp7rzpuIxT4D%2F%2F60jQ7ZprdRsXdsaYrrX1%2BbitJMf1EjHWBf8yd60wNoMTqPmeQ%2FjeHSQfH0Nff9w%2F3NXd%2FiTbF35pPXdZEGueG%2FYgAcQzVFE7a8nuYCTuz4CLUXhP--qQ7WFdRbWSIsKKjs--M7wvxhuhUUYyeNKOKhUt3Q%3D%3D"
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0",
